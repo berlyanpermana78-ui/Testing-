@@ -1,0 +1,6 @@
+{
+  "name": "MonoMind AI",
+  "description": "A premium, strict-monochrome, ultra-modern full-stack AI dialogue companion with advanced prompt optimization, contextual session memory, and tone shifting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

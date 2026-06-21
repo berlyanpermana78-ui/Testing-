@@ -1,0 +1,15 @@
+{
+    "aiName": "Trinity AI",
+    "version": "1.0.0-Stable",
+    "endpoints": [
+        "https://api.lexcode.biz.id/api/ai/claude/4-6-sonnet?text=",
+        "https://api.lexcode.biz.id/api/ai/claude/4-7-opus?text=",
+        "https://api.lexcode.biz.id/api/ai/copilot?prompt="
+    ],
+    "searchEngine": "https://api-nanzz.my.id/docs/api/search/search-wikipedia.php?q=",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "admin": {
+        "username": "admin123",
+        "password": "trinitypassword123"
+    }
+}

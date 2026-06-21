@@ -1,6 +1,0 @@
-{
-  "name": "Liquid Glass Store",
-  "description": "Website penjualan modern dengan tema liquid glass monokrom, checkout QRIS/DANA/GoPay, dan dashboard admin untuk mengelola produk.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
